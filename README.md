@@ -9,5 +9,5 @@ The first part of the project is to gather and clean both datasets. Some of the 
 ### Explore 
 In this stage the dataset will be explored using simple computations and rudimentary maths. The main questions that will be answered are the following: 
 * What is the overall trend in gun registrations in America? 
-* Which states have the highest gun per capita (2017)?
+* Which states have experienced the highest growth in gun per capita?
 * Is there a correlation between gun registrations and ethnicity in the states which have a high gun per capita? 
